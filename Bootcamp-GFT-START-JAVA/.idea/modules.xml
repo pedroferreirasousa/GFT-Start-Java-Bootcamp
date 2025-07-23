@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GFT-Start-Java-Bootcamp.iml" filepath="$PROJECT_DIR$/GFT-Start-Java-Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sintaxe-Basica-com-Java/modulo-01-fundamentos-java/modulo-01-fundamentos-java.iml" filepath="$PROJECT_DIR$/Sintaxe-Basica-com-Java/modulo-01-fundamentos-java/modulo-01-fundamentos-java.iml" />
+    </modules>
+  </component>
+</project>
